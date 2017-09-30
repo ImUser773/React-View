@@ -10,6 +10,13 @@
     "heroku-postbuild": "next build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": "6.11.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImUser773/React-View"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
